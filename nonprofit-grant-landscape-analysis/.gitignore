@@ -1,0 +1,22 @@
+# Client research, source data, and working documents
+/nonprofit-grant-landscape-analysis/data/
+/nonprofit-grant-landscape-analysis/docs/
+/nonprofit-grant-landscape-analysis/pbc/
+/nonprofit-grant-landscape-analysis/webscrape_data/
+/nonprofit-grant-landscape-analysis/*.docx
+/nonprofit-grant-landscape-analysis/data-draft.ipynb
+
+# Tableau workbooks and local extracts
+*.twb
+*.twbx
+*.hyper
+*.tde
+
+# Notebook and Python-generated files
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Local configuration
+.env
+.DS_Store
