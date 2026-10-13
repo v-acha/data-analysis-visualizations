@@ -1,7 +1,6 @@
 # Grant Landscape and Growth Strategy for a Coastal Nonprofit
 
-A client project for Pacifica Beach Coalition (PBC), a California coastal conservation nonprofit. PBC was planning for growth and wanted evidence to guide its fundraising and staffing decisions. I researched comparable nonprofits, analyzed the grants they received, and delivered an interactive Tableau dashboard and presentation to the organization.
-
+How incomplete financial records, inconsistent reporting, and limited resources shaped an analysis of nonprofit funding and organizational growth.
 ## Business questions
 
 - How does PBC’s financial position compare with organizations doing similar work?
@@ -9,6 +8,10 @@ A client project for Pacifica Beach Coalition (PBC), a California coastal conser
 - Which grantmakers appear among peer awards but have no recorded award to PBC in the analyzed data?
 - What do peer funding models and staffing patterns suggest for PBC’s growth plans?
 
+### Focus: Data Collection, Data Engineering, Financial Benchmarking, Data Visualization
+### Tools: Python, SQL, Tableau, REST APIs, OCR, Excel
+### Data Sources: IRS Form 990, ProPublica Nonprofit Explorer, GuideStar, Cause IQ
+### Project Type: Client Consulting | Nonprofit Sector
 ## Research and analysis
 
 I collected and organized publicly available nonprofit profiles, financial information, and grant records. Sources used during the research included [GuideStar](https://www.guidestar.org/), [Cause IQ](https://www.causeiq.com/), [ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/), and [IRS Form 990 downloads](https://www.irs.gov/charities-non-profits/form-990-series-downloads).
